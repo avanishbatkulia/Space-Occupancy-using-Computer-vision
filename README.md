@@ -1,4 +1,4 @@
-# Occupancy and Utilisation Insights for Gartner - DIH
+# Office Occupancy and Space Utilisation Insights for Gartner - DIH
 
 ## Overview
 
